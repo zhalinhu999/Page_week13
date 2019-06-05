@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="706dp"
+        android:src="@drawable/pingpong" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="乒乓球（table tennis），中国国球，是一种世界流行的球类体育项目，包括进攻、对抗和防守。比赛分团体、单打、双打等数种；2001年9月1日前以21分为一局，现以11分为一局；采用五局三胜，七局四胜。乒乓球为圆球状，重2.53-2.70克，白或橙色，用赛璐珞或塑料制成。
+乒乓球起源于英国，乒乓球一名起源自1900年，因其打击时发出“Ping Pong”的声音而得名，在中国大陆以“乒乓球”作为它的官方名称，香港及澳门等地区亦同。1926年，在英国伦敦举行了国际乒乓球邀请赛。后被追认为第一届世界乒乓球锦标赛。
+" />
+
+
+
+</FrameLayout>

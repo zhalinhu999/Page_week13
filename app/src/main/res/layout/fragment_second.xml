@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_constraintRight_toRightOf="20dp"
+    tools:context=".SecondFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="316dp"
+        android:layout_height="212dp"
+        android:layout_gravity="top"
+        android:text="篮球，英文（basketball），起源于美国马萨诸塞州，是1891年12月21日由詹姆斯·奈史密斯创造，是奥运会核心比赛项目，是以手为中心的身体对抗性体育运动 [1]  。
+1891年12月21日，由美国马萨诸塞州斯普林菲尔德基督教青年会训练学校（现译名为美国春田大学，Springfield College）体育教师詹姆士·奈史密斯发明 [2]  。1896年，篮球运动传入中国，并且2002年姚明以状元的身份入选NBA，开启了中国篮球新的狂潮。
+" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="722dp"
+        android:src="@drawable/basketball" />
+
+</FrameLayout>
